@@ -1,0 +1,25 @@
+{
+    "pytania": [
+        {
+            "tresc": "stolica polski bylo",
+            "odpa": "Krakow",
+            "odpb": "Psary",
+            "odpc": "Bytom",
+            "poprawna": 1
+        },
+        {
+            "tresc": "kto nie zdobyl zlotej pilki",
+            "odpa": "Messi",
+            "odpb": "Lewandowski",
+            "odpc": "Pele",
+            "poprawna": 2
+        },
+        {
+            "tresc": "gdzie gral Ronaldo",
+            "odpa": "Barcelona",
+            "odpb": "SportingLizbona",
+            "odpc": "Celtic",
+            "poprawna": 2
+        }
+    ]
+}
